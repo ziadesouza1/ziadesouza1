@@ -1,8 +1,8 @@
 # Hi, I'm Zia 👋
 
-### Software Engineering Graduate | Maritime Technology & Operations | Cybersecurity
+### Software Engineering Student | Maritime Technology & Operations | Cybersecurity
 
-I'm a Singapore-based maritime professional with **12 years of experience in maritime operations**, recent graduate with a ** degree in Software Engineering at the National University of Singapore (NUS)**.
+I'm a Singapore-based maritime professional with **12 years of experience in maritime operations**, doing a **degree in Software Engineering at the National University of Singapore (NUS)**.
 
 I'm building my skills in software engineering, backend development, networking and data analytics, with a particular interest in applying technology to **maritime and operational environments**.
 
